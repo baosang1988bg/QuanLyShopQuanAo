@@ -1,0 +1,10 @@
+D:\DOANCNPM\DoAnCNPM\DAL\bin\Debug\DAL.dll.config
+D:\DOANCNPM\DoAnCNPM\DAL\bin\Debug\DAL.dll
+D:\DOANCNPM\DoAnCNPM\DAL\bin\Debug\DAL.pdb
+D:\DOANCNPM\DoAnCNPM\DAL\obj\Debug\DAL.dll
+D:\DOANCNPM\DoAnCNPM\DAL\obj\Debug\DAL.pdb
+D:\LEARN_IN_CLASS\CNPM\New folder\DoAnCNPM\DAL\bin\Debug\DAL.dll.config
+D:\LEARN_IN_CLASS\CNPM\New folder\DoAnCNPM\DAL\bin\Debug\DAL.dll
+D:\LEARN_IN_CLASS\CNPM\New folder\DoAnCNPM\DAL\bin\Debug\DAL.pdb
+D:\LEARN_IN_CLASS\CNPM\New folder\DoAnCNPM\DAL\obj\Debug\DAL.dll
+D:\LEARN_IN_CLASS\CNPM\New folder\DoAnCNPM\DAL\obj\Debug\DAL.pdb

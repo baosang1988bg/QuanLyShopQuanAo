@@ -1,0 +1,14 @@
+D:\DOANCNPM\DoAnCNPM\BLL\bin\Debug\BLL.dll
+D:\DOANCNPM\DoAnCNPM\BLL\bin\Debug\BLL.pdb
+D:\DOANCNPM\DoAnCNPM\BLL\bin\Debug\DAL.dll
+D:\DOANCNPM\DoAnCNPM\BLL\bin\Debug\DAL.pdb
+D:\DOANCNPM\DoAnCNPM\BLL\obj\Debug\BLL.dll
+D:\DOANCNPM\DoAnCNPM\BLL\obj\Debug\BLL.pdb
+D:\DOANCNPM\DoAnCNPM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\LEARN_IN_CLASS\CNPM\New folder\DoAnCNPM\BLL\bin\Debug\BLL.dll
+D:\LEARN_IN_CLASS\CNPM\New folder\DoAnCNPM\BLL\bin\Debug\BLL.pdb
+D:\LEARN_IN_CLASS\CNPM\New folder\DoAnCNPM\BLL\bin\Debug\DAL.dll
+D:\LEARN_IN_CLASS\CNPM\New folder\DoAnCNPM\BLL\bin\Debug\DAL.pdb
+D:\LEARN_IN_CLASS\CNPM\New folder\DoAnCNPM\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\LEARN_IN_CLASS\CNPM\New folder\DoAnCNPM\BLL\obj\Debug\BLL.dll
+D:\LEARN_IN_CLASS\CNPM\New folder\DoAnCNPM\BLL\obj\Debug\BLL.pdb

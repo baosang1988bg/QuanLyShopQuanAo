@@ -1,0 +1,41 @@
+// Lay ma NV cuoi cung viet trong DAL
+public string getMANVLast()
+        {
+            List<NhanVien> a = da.NhanViens.ToList();
+            if (a.Count == 0)// neu chua co nhan vien nao
+            { return ""; }
+            //da co ma nhan vien
+            NhanVien b = da.NhanViens.ToList().OrderByDescending(t => t.maNV).First();// lay nhan vien dau tien giam dan theo ma
+            return b.maNV;
+        }
+/// BLL goi lai  ham trong DAL
+public string getMANVLast()
+        {
+            return nv_dal.getMANVLast();
+        }
+/// GUI
+public string MaTuDong()
+        {
+            string kq = "";
+            if (nv.getMANVLast() == "")
+            {
+                kq = "NV001";
+            }
+            else
+            {
+                int so = int.Parse(nv.getMANVLast().Remove(0, 2));
+
+                int k = so + 1;
+                if (so < 10)
+                {
+                    kq = "NV" + "00";
+                }
+                else if (so < 100)
+                {
+                    kq = "NV" + "0";
+                }
+                
+                kq = kq + k.ToString();
+            }
+            return kq;
+        }
